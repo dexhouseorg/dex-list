@@ -30,5 +30,164 @@
             "Aptos"
         ],
         "url": "https://pancakeswap.com"
+    },
+    {
+        "name": "SushiSwap",
+        "support_networks": [
+            "Ethereum",
+            "Arbitrum",
+            "Avalanche",
+            "BNB Chain",
+            "Polygon",
+            "Fantom",
+            "Optimism",
+            "Base"
+        ],
+        "url": "https://sushi.com"
+    },
+    {
+        "name": "Curve",
+        "support_networks": [
+            "Ethereum",
+            "Polygon",
+            "Arbitrum",
+            "Optimism",
+            "Avalanche",
+            "Fantom",
+            "BNB Chain",
+            "Base"
+        ],
+        "url": "https://curve.fi"
+    },
+    {
+        "name": "dYdX",
+        "support_networks": [
+            "Ethereum",
+            "dYdX Chain"
+        ],
+        "url": "https://dydx.exchange"
+    },
+    {
+        "name": "Balancer",
+        "support_networks": [
+            "Ethereum",
+            "Polygon",
+            "Arbitrum",
+            "Optimism",
+            "Base",
+            "Avalanche"
+        ],
+        "url": "https://balancer.fi"
+    },
+    {
+        "name": "TraderJoe",
+        "support_networks": [
+            "Avalanche",
+            "Arbitrum",
+            "BNB Chain",
+            "Ethereum"
+        ],
+        "url": "https://traderjoexyz.com"
+    },
+    {
+        "name": "Raydium",
+        "support_networks": [
+            "Solana"
+        ],
+        "url": "https://raydium.io"
+    },
+    {
+        "name": "Orca",
+        "support_networks": [
+            "Solana"
+        ],
+        "url": "https://www.orca.so"
+    },
+    {
+        "name": "Osmosis",
+        "support_networks": [
+            "Cosmos"
+        ],
+        "url": "https://osmosis.zone"
+    },
+    {
+        "name": "GMX",
+        "support_networks": [
+            "Arbitrum",
+            "Avalanche"
+        ],
+        "url": "https://gmx.io"
+    },
+    {
+        "name": "KyberSwap",
+        "support_networks": [
+            "Ethereum",
+            "BNB Chain",
+            "Polygon",
+            "Avalanche",
+            "Fantom",
+            "Arbitrum",
+            "Optimism",
+            "Base"
+        ],
+        "url": "https://kyberswap.com"
+    },
+    {
+        "name": "1inch",
+        "support_networks": [
+            "Ethereum",
+            "BNB Chain",
+            "Polygon",
+            "Avalanche",
+            "Arbitrum",
+            "Optimism",
+            "Fantom",
+            "Klaytn",
+            "Base"
+        ],
+        "url": "https://1inch.io"
+    },
+    {
+        "name": "Velodrome",
+        "support_networks": [
+            "Optimism"
+        ],
+        "url": "https://velodrome.finance"
+    },
+    {
+        "name": "Camelot",
+        "support_networks": [
+            "Arbitrum"
+        ],
+        "url": "https://camelot.exchange"
+    },
+    {
+        "name": "SpookySwap",
+        "support_networks": [
+            "Fantom"
+        ],
+        "url": "https://spooky.fi"
+    },
+    {
+        "name": "Maverick",
+        "support_networks": [
+            "Ethereum",
+            "Base",
+            "Arbitrum"
+        ],
+        "url": "https://maverick.trade"
+    },
+    {
+        "name": "Hashflow",
+        "support_networks": [
+            "Ethereum",
+            "BNB Chain",
+            "Polygon",
+            "Avalanche",
+            "Arbitrum",
+            "Optimism",
+            "Base"
+        ],
+        "url": "https://hashflow.com"
     }
 ]
