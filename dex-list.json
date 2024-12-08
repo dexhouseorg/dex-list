@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Uniswap",
+        "support_networks": [
+            "Ethereum",
+            "Arbitrum",
+            "Avalanche",
+            "Base",
+            "Blast",
+            "BNB Chain",
+            "Celo",
+            "Optimism",
+            "Polygon",
+            "World Chain",
+            "ZKsync",
+            "Zora"
+        ],
+        "url": "https://uniswap.org"
+    },
+    {
+        "name": "PancakeSwap",
+        "support_networks": [
+            "Binance Smart Chain (BSC)",
+            "Ethereum",
+            "Polygon zkEVM",
+            "zkSync Era",
+            "Linea",
+            "Base",
+            "Arbitrum One",
+            "Aptos"
+        ],
+        "url": "https://pancakeswap.com"
+    }
+]
