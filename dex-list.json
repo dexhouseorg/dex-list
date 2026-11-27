@@ -189,5 +189,12 @@
             "Base"
         ],
         "url": "https://hashflow.com"
+    },
+    {
+        "name": "Melega DEX",
+        "support_networks": [
+            "BNB Chain"
+        ],
+        "url": "https://www.melega.finance/"
     }
 ]
